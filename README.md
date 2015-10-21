@@ -23,8 +23,9 @@ Tech startups with offices in Victoria BC.
 
 #### [Boundless GeoSpatial](http://www.boundlessgeo.com/)
 * [Application Developer](http://boundless.theresumator.com/apply/7xrEcN/Application-Developer)
-* [UX Developer](http://boundless.theresumator.com/apply/ivhSva/UX-Designer)
 * [Web Developer](http://boundless.theresumator.com/apply/yRowO0/Web-Developer)
+* [QA Engineer] (http://boundless.theresumator.com/apply/Jh1fBl/Quality-Assurance-Engineer)
+* [Build Engineer] (http://boundless.theresumator.com/apply/RmzfqR/Build-Engineer)
 
 #### [Checkfront](https://www.checkfront.com/)
 * [Client Support Specialist](http://checkfront.workable.com/jobs/27727)
